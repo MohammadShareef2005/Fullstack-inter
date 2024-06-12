@@ -1,0 +1,24 @@
+.first{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 70vh;
+   
+ 
+}
+.name{
+    text-align: center;
+}
+.one {
+     
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px;
+    box-shadow: 10px 10px 20px #aaaaaa;
+    background-color:white ;
+  }
+  .two{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 93%);
+  }
